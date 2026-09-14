@@ -3,7 +3,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint1.Task0.V16
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
             Console.Title = "Спринт #1 | Выполнил: Михайличенко А. И. | ИИПБ26-1";

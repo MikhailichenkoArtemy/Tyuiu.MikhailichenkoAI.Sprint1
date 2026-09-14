@@ -5,7 +5,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint1.Task0.V16.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void ValidExpression()
+        public void ValidExpression() 
         {
             DataService ds = new DataService();
             var res = ds.Calculate();

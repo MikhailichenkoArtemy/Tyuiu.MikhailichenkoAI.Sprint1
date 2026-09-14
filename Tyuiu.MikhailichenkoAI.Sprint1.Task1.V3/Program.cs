@@ -9,7 +9,7 @@ namespace Tyuiu.MikhailichenkoAI.Sprint1.Task1.V3
             Console.Title = "Спринт #1 | Выполнил: Михайличенко А. И. | ИИПБ26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
+            Console.WriteLine("* Тема: Организация ввода\вывода в консольных приложени                  *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #3                                                              *");
             Console.WriteLine("* Выполнил: Михайличенко А. И. | ИИПБ26-1                                 *");
